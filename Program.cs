@@ -6,6 +6,7 @@ namespace Dz12
     {
         static void Main(string[] args)
         {
+            // Проверка ci
             Console.WriteLine("Hello, Docker!");
         }
     }
